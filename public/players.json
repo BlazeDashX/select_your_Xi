@@ -8,7 +8,7 @@
     "rating": 9.5,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm offbreak",
-    "price": "BDT 6,000,000"
+    "price": "BDT 850,000"
   },
   {
     "player-id": "BPL2025-002",
@@ -19,7 +19,7 @@
     "rating": 9.8,
     "bating-style": "Left-hand bat",
     "bowling-style": "Slow left-arm orthodox",
-    "price": "BDT 6,000,000"
+    "price": "BDT 1,000,000"
   },
   {
     "player-id": "BPL2025-003",
@@ -30,7 +30,7 @@
     "rating": 9.2,
     "bating-style": "Left-hand bat",
     "bowling-style": "Right-arm fast",
-    "price": "BDT 6,000,000"
+    "price": "BDT 900,000"
   },
   {
     "player-id": "BPL2025-004",
@@ -41,7 +41,7 @@
     "rating": 8.9,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm offbreak",
-    "price": "BDT 6,000,000"
+    "price": "BDT 800,000"
   },
   {
     "player-id": "BPL2025-005",
@@ -52,7 +52,7 @@
     "rating": 9.3,
     "bating-style": "Left-hand bat",
     "bowling-style": "Left-arm fast-medium",
-    "price": "BDT 6,000,000"
+    "price": "BDT 950,000"
   },
   {
     "player-id": "BPL2025-006",
@@ -63,7 +63,7 @@
     "rating": 8.7,
     "bating-style": "Left-hand bat",
     "bowling-style": "Right-arm offbreak",
-    "price": "BDT 4,000,000"
+    "price": "BDT 800,000"
   },
   {
     "player-id": "BPL2025-007",
@@ -74,7 +74,7 @@
     "rating": 9.0,
     "bating-style": "Left-hand bat",
     "bowling-style": "N/A",
-    "price": "BDT 6,000,000"
+    "price": "BDT 900,000"
   },
   {
     "player-id": "BPL2025-008",
@@ -85,7 +85,7 @@
     "rating": 9.7,
     "bating-style": "Left-hand bat",
     "bowling-style": "Left-arm fast",
-    "price": "USD 80,000"
+    "price": "BDT 950,000"
   },
   {
     "player-id": "BPL2025-009",
@@ -96,7 +96,7 @@
     "rating": 8.8,
     "bating-style": "Left-hand bat",
     "bowling-style": "Right-arm medium-fast",
-    "price": "USD 80,000"
+    "price": "BDT 750,000"
   },
   {
     "player-id": "BPL2025-010",
@@ -107,7 +107,7 @@
     "rating": 8.5,
     "bating-style": "Right-hand bat",
     "bowling-style": "Right-arm offbreak",
-    "price": "USD 40,000"
+    "price": "BDT 450,000"
   },
   {
     "player-id": "BPL2025-011",
@@ -118,7 +118,7 @@
     "rating": 8.6,
     "bating-style": "Right-hand bat",
     "bowling-style": "N/A",
-    "price": "USD 60,000"
+    "price": "BDT 700,000"
   },
   {
     "player-id": "BPL2025-012",
@@ -129,6 +129,6 @@
     "rating": 8.7,
     "bating-style": "Left-hand bat",
     "bowling-style": "Slow left-arm orthodox",
-    "price": "USD 60,000"
+    "price": "BDT 720,000"
   }
 ]

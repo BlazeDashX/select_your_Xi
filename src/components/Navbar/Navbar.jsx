@@ -1,6 +1,6 @@
 import navLogo from '../../assets/logo.png';
 import dlrImg from '../../assets/dollar.png';
-const Navbar = () => {
+const Navbar = ({ availableBalance }) => {
     return (
         <div>
             <div className="navbar max-w-300 mx-auto">
@@ -10,7 +10,7 @@ const Navbar = () => {
                     </a>
                 </div>
                 <div className="flex items-center gap-1">
-                    <span>60000000</span>
+                    <span>{availableBalance}</span>
                     <span> Coin</span>
                     <img className='h-4' src={dlrImg} alt="Dollar" />
                     
