@@ -1,0 +1,134 @@
+[
+  {
+    "player-id": "BPL2025-001",
+    "player-image": "https://tse1.mm.bing.net/th?q=Mehidy+Hasan+Miraz+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Mehidy Hasan Miraz",
+    "player-country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 9.5,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "BDT 6,000,000"
+  },
+  {
+    "player-id": "BPL2025-002",
+    "player-image": "https://tse1.mm.bing.net/th?q=Shakib+Al+Hasan+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Shakib Al Hasan",
+    "player-country": "Bangladesh",
+    "playing-role": "All-rounder",
+    "rating": 9.8,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Slow left-arm orthodox",
+    "price": "BDT 6,000,000"
+  },
+  {
+    "player-id": "BPL2025-003",
+    "player-image": "https://tse1.mm.bing.net/th?q=Taskin+Ahmed+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Taskin Ahmed",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 9.2,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm fast",
+    "price": "BDT 6,000,000"
+  },
+  {
+    "player-id": "BPL2025-004",
+    "player-image": "https://tse1.mm.bing.net/th?q=Towhid+Hridoy+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Towhid Hridoy",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 8.9,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "BDT 6,000,000"
+  },
+  {
+    "player-id": "BPL2025-005",
+    "player-image": "https://tse1.mm.bing.net/th?q=Mustafizur+Rahman+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Mustafizur Rahman",
+    "player-country": "Bangladesh",
+    "playing-role": "Bowler",
+    "rating": 9.3,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm fast-medium",
+    "price": "BDT 6,000,000"
+  },
+  {
+    "player-id": "BPL2025-006",
+    "player-image": "https://tse1.mm.bing.net/th?q=Mohammad+Naim+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Mohammad Naim",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 8.7,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "BDT 4,000,000"
+  },
+  {
+    "player-id": "BPL2025-007",
+    "player-image": "https://tse1.mm.bing.net/th?q=Tamim+Iqbal+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Tamim Iqbal",
+    "player-country": "Bangladesh",
+    "playing-role": "Batter",
+    "rating": 9.0,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "N/A",
+    "price": "BDT 6,000,000"
+  },
+  {
+    "player-id": "BPL2025-008",
+    "player-image": "https://tse1.mm.bing.net/th?q=Shaheen+Afridi+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Shaheen Afridi",
+    "player-country": "Pakistan",
+    "playing-role": "Bowler",
+    "rating": 9.7,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Left-arm fast",
+    "price": "USD 80,000"
+  },
+  {
+    "player-id": "BPL2025-009",
+    "player-image": "https://tse1.mm.bing.net/th?q=Thisara+Perera+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Thisara Perera",
+    "player-country": "Sri Lanka",
+    "playing-role": "All-rounder",
+    "rating": 8.8,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Right-arm medium-fast",
+    "price": "USD 80,000"
+  },
+  {
+    "player-id": "BPL2025-010",
+    "player-image": "https://tse1.mm.bing.net/th?q=Allah+Ghazanfar+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Allah Ghazanfar",
+    "player-country": "Afghanistan",
+    "playing-role": "Bowler",
+    "rating": 8.5,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "Right-arm offbreak",
+    "price": "USD 40,000"
+  },
+  {
+    "player-id": "BPL2025-011",
+    "player-image": "https://tse1.mm.bing.net/th?q=Johnson+Charles+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Johnson Charles",
+    "player-country": "West Indies",
+    "playing-role": "Batter",
+    "rating": 8.6,
+    "bating-style": "Right-hand bat",
+    "bowling-style": "N/A",
+    "price": "USD 60,000"
+  },
+  {
+    "player-id": "BPL2025-012",
+    "player-image": "https://tse1.mm.bing.net/th?q=Mohammad+Nawaz+cricketer&w=300&h=300&c=7&rs=1",
+    "player-name": "Mohammad Nawaz",
+    "player-country": "Pakistan",
+    "playing-role": "All-rounder",
+    "rating": 8.7,
+    "bating-style": "Left-hand bat",
+    "bowling-style": "Slow left-arm orthodox",
+    "price": "USD 60,000"
+  }
+]
