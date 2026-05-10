@@ -1,11 +1,13 @@
-
+import Navbar from './components/Navbar/Navbar';
 import './App.css'
 
 function App() {
 
   return (
     <>
-    <p>hello world</p>
+    <div>
+      <Navbar></Navbar>
+    </div>
 
     </>
   )
