@@ -1,20 +1,30 @@
 import { useState } from 'react';
 import userImg from '../../assets/user.png';
 import flagImg from '../../assets/flag.png';
+import { toast } from 'react-toastify';
 
-const PlayerCard = ({ player, setAvailableBalance, availableBalance }) => {
+const PlayerCard = ({ player, setAvailableBalance, availableBalance, setPurchasedPlayers, purchasedPlayers }) => {
     const[isSelected,setIsSelected] = useState(false);
 
-    const handleSelected =(playerData)=>{
-        const playerPrice = playerData.price.split("BDT").join("").split(",").join("");
-        
-        if(availableBalance < playerPrice){
-            alert("You don't have enough balance to select this player");
+    const handleSelected = (playerData) => {
+        const playerPrice = Number(
+        playerData.price.split("BDT").join("").split(",").join("")
+        );
+
+        if (availableBalance < playerPrice){
+            toast("You don't have enough balance to select this player");
             return;
         }
+        if (purchasedPlayers.length === 6){
+            toast("6 Player already selected");
+            return;
+        }
+
         setIsSelected(true);
-        setAvailableBalance( 
-            availableBalance - playerPrice);
+
+        setAvailableBalance(prev => prev - Number(playerPrice));
+        
+        setPurchasedPlayers([...purchasedPlayers, playerData]);
     }
 
 
